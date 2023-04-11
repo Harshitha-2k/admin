@@ -1,0 +1,13 @@
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  background-image:linear-gradient(#4e292f40,#7274a5,gray) ;
+}
+.sign-up{
+  text-align: center;
+  padding: 15px;
+  margin: 10px 10px;
+}
